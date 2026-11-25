@@ -66,6 +66,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [security-guidance](./plugins/security-guidance)
 
 ### Workflow Orchestration
+- [agent-inbox](https://github.com/ktoksoz/agent-inbox) - One inbox pane for every Claude Code session that is waiting on you (permission, question, turn finished), grouped by project, oldest first, with one-click jump to the session in Claude Desktop. Hooks + pane mod, 100% local, UI in EN/TR/DE/FR/ES.
 - [agent-triforce](https://github.com/ArtemioPadilla/agent-triforce) - 3-agent PM/Dev/QA system with WHO checklist methodology. Prometeo (PM), Forja (Dev), Centinela (QA) with 24 checklists, 6 skills, and auto-generated HTML dashboard.
 - [angelos-symbo](./plugins/angelos-symbo)
 - [artel](https://github.com/NicolasPrimeau/artel) - Infrastructure for AI teams: shared semantic memory, tasks, agent-to-agent messages, and session handoffs across machines and LLM providers.
